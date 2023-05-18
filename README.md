@@ -1,5 +1,5 @@
 - 👋 Hello, I am Oluwagbemileke Femi Oyeyoade. 
-- 👋 You can call me #Gbemmiey tho
+- 👋 You can refer to me as *Gbemmiey*.
 - 👀 I’m interested in building web-based business solutions.
 - 👀 I'm proficient in HTML, CSS, Javascript, Python (Flask), .NET 6...
 - 🌱 I’m currently learning API development using ASP.NET 8.
