@@ -1,7 +1,8 @@
-- 👋 Hello, I am Gbemmiey
+- 👋 Hello, I am Oluwagbemileke Femi Oyeyoade. 
+- 👋 You can call me #Gbemmiey tho
 - 👀 I’m interested in building web-based business solutions.
-- 👀 I'm proficient in HTML, CSS, Javascript, Python (Flask), Java (SpringBoot)...
-- 🌱 I’m currently learning web development using Django (Python).
+- 👀 I'm proficient in HTML, CSS, Javascript, Python (Flask), .NET 6...
+- 🌱 I’m currently learning API development using ASP.NET 8.
 - 📫 You can reach me on gbemfemalabi@gmail.com
 
 <!---
