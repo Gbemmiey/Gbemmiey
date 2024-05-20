@@ -1,4 +1,3 @@
-<br/>
 - 👋 Hello, I am Oluwagbemileke Femi Oyeyoade. 
 - 👋 You can refer to me as *Gbemmiey*.
 - 🌱 I’m interested in building web-based business solutions.
